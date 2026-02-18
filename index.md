@@ -15,7 +15,7 @@ In brief, sir, study what you most affect.<br>
 I am currently a lecturer at School of Mathematics and Statistics of [Hunan Normal University](https://mc.hunnu.edu.cn/), since February 2025. Before that, I was a postdoc at [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm) where my mentor is Prof. [Changzheng Li](https://math.sysu.edu.cn/gagp/czli) in the group of [GAGP](https://math.sysu.edu.cn/gagp/).
 I got my Ph.D degree from Rutgers University at Newark in 2022 where my advisor was Prof. [Xiaowei Wang](https://sites.rutgers.edu/xiaowei-wang/) and got my bachelor degree from Lanzhou University in 2016.
 
-My research interest lies in Kähler geometry. Currently, I am primarily focused on the Gamma Conjecture I in mirror symmetry and quantum cohomology, as well as other topics in geometry, such as the embedding of manifolds, which was my main research topic during my Ph.D.
+My research interest lies in geometry. Currently, I am primarily focused on the Gamma Conjecture I in mirror symmetry and quantum cohomology, as well as other topics in geometry, such as the embedding of manifolds, which was my main research topic during my Ph.D.
 
 ##### Visitor Count <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
